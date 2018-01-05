@@ -1,0 +1,30 @@
+12:31:19.946641 IP 172.27.17.228.5353 > 224.0.0.251.5353: 0*- [0q] 1/0/4 PTR HP LaserJet Professional P1606dn [0DE503]._ipp._tcp.local. (690)
+12:31:19.946656 IP6 fe80::3aea:a7ff:fe0d:e503.5353 > ff02::fb.5353: 0*- [0q] 1/0/4 PTR HP LaserJet Professional P1606dn [0DE503]._ipp._tcp.local. (690)
+12:31:19.948807 IP 172.27.27.231.5353 > 224.0.0.251.5353: 0*- [0q] 7/0/5 (Cache flush) TXT "", PTR user1M-bM-^@M-^Ys iMac._smb._tcp.local., TXT "model=iMac13,2" "osxvers=16", (Cache flush) TXT "", PTR user1M-bM-^@M-^Ys iMac._afpovertcp._tcp.local., (Cache flush) SRV MACF4.local.:445 0 0, (Cache flush) SRV MACF4.local.:548 0 0 (341)
+12:31:19.948816 ARP, Request who-has 172.27.21.11 tell 172.27.16.254, length 46
+12:31:19.948819 IP 172.27.17.125.137 > 172.27.255.255.137: NBT UDP PACKET(137): QUERY; REQUEST; BROADCAST
+12:31:19.950225 IP 172.27.18.48.5353 > 224.0.0.251.5353: 0*- [0q] 1/0/4 PTR HP LaserJet Professional P1606dn [0D960C]._ipp._tcp.local. (689)
+12:31:19.950235 IP6 fe80::3aea:a7ff:fe0d:960c.5353 > ff02::fb.5353: 0*- [0q] 1/0/4 PTR HP LaserJet Professional P1606dn [0D960C]._ipp._tcp.local. (689)
+12:31:19.951669 IP 172.27.15.87.5353 > 224.0.0.251.5353: 0 [2q] [1au] PTR (QU)? _homekit._tcp.local. PTR (QU)? _sleep-proxy._udp.local. (90)
+12:31:19.951680 IP6 fe80::cd5:c658:a8a:aee2.5353 > ff02::fb.5353: 0 [2q] [1au] PTR (QU)? _homekit._tcp.local. PTR (QU)? _sleep-proxy._udp.local. (90)
+12:31:19.955107 IP 172.27.22.101.5353 > 224.0.0.251.5353: 0 [b2&3=0x200] [1a] [26q] SRV (QM)? HP LaserJet M203dn (AB5F02)._ipp._tcp.local. AAAA (QM)? MACF4.local. A (QM)? MACF4.local. TXT (QM)? HP LaserJet Pro M202dw (CDA64B)._ipps._tcp.local. SRV (QM)? HP LaserJet Pro M202dw (CDA64B)._ipps._tcp.local. AAAA (QM)? NPICDA64B.local. A (QM)? NPICDA64B.local. TXT (QM)? HP LaserJet Pro M202dw (C7AD6A)._ipps._tcp.local. SRV (QM)? HP LaserJet Pro M202dw (C7AD6A)._ipps._tcp.local. AAAA (QM)? NPIC7AD6A.local. A (QM)? NPIC7AD6A.local. TXT (QM)? HP LaserJet Pro M202dw (C73D14)._ipps._tcp.local. SRV (QM)? HP LaserJet Pro M202dw (C73D14)._ipps._tcp.local. AAAA (QM)? NPIC73D14.local. A (QM)? NPIC73D14.local. TXT (QM)? HP_Printer@raghunath._ipps._tcp.local. SRV (QM)? HP_Printer@raghunath._ipps._tcp.local. AAAA (QM)? NPIC63260.local. A (QM)? NPIC63260.local. TXT (QM)? HP LaserJet Pro MFP M226dw (5398E8)._ipps._tcp.local. SRV (QM)? HP LaserJet Pro MFP M226dw (5398E8)._ipps._tcp.local. AAAA (QM)? NPI5398E8.local. A (QM)? NPI5398E8.local. TXT (QM)? HP LaserJet M203dn (AB5F02)._ipps._tcp.local. SRV (QM)? HP LaserJet M203dn (AB5F02)._ipps._tcp.local. TXT (QM)? HP LaserJet M203dn (AB5F02)._ipp._tcp.local. (1119)
+12:31:19.956006 IP 172.27.22.101.5353 > 224.0.0.251.5353: 0 [13a] [0q] (1155)
+12:31:20.008391 IP 172.27.22.101.5353 > 224.0.0.251.5353: 0 [2q] [2n] ANY (QM)? 101.22.27.172.in-addr.arpa. ANY (QM)? piyush-HP-Notebook.local. (104)
+12:31:20.043475 IP6 :: > ff02::16: HBH ICMP6, multicast listener report v2, 1 group record(s), length 28
+12:31:20.050208 IP 172.27.16.21.5353 > 224.0.0.251.5353: 0*- [0q] 2/0/9 PTR HP LaserJet M506 [C2FBC3]._ipp._tcp.local., PTR HP LaserJet M506 [C2FBC3]._ipps._tcp.local. (1379)
+12:31:20.050220 IP6 fe80::b25a:daff:fec2:fbc3 > ff02::fb: frag (0|1232) 5353 > 5353: 0*- [0q] 2/0/9 PTR HP LaserJet M506 [C2FBC3]._ipp._tcp.local., PTR HP LaserJet M506 [C2FBC3]._ipps._tcp.local. (1224)
+12:31:20.050226 IP6 fe80::b25a:daff:fec2:fbc3 > ff02::fb: frag (1232|155)
+12:31:20.050227 IP6 fe80::99eb:fcc6:3c54:f21.546 > ff02::1:2.547: dhcp6 solicit
+12:31:20.050228 IP 172.31.5.10.53652 > 239.255.255.250.1900: UDP, length 173
+12:31:20.051992 ARP, Request who-has 172.27.16.1 tell 172.27.22.155, length 46
+12:31:20.052001 ARP, Request who-has 172.27.16.254 tell 172.27.22.155, length 46
+12:31:20.052003 ARP, Request who-has 172.27.23.255 tell 172.27.22.14, length 46
+12:31:20.149427 IP6 fe80::8616:f9ff:fe5c:7181.546 > ff02::1:2.547: dhcp6 solicit
+12:31:20.149436 IP6 fe80::e873:5598:87ee:65e3 > ff02::1:ff45:d059: ICMP6, neighbor solicitation, who has fe80::a536:eb1a:7945:d059, length 32
+12:31:20.149438 IP6 fe80::a0c4:bae6:bd74:d615 > ff02::2: ICMP6, router solicitation, length 8
+12:31:20.150736 IP6 fe80::a0c4:bae6:bd74:d615 > ff02::16: HBH ICMP6, multicast listener report v2, 1 group record(s), length 28
+12:31:20.153218 IP6 fe80::a0c4:bae6:bd74:d615 > ff02::16: HBH ICMP6, multicast listener report v2, 1 group record(s), length 28
+12:31:20.153220 IP 172.27.24.40.35581 > 239.255.255.250.1900: UDP, length 94
+12:31:20.153226 IP 172.27.20.46.17500 > 255.255.255.255.17500: UDP, length 133
+12:31:20.153232 IP 172.27.20.46.17500 > 172.27.255.255.17500: UDP, length 133
+12:31:20.153235 IP 0.0.0.0 > 224.0.0.1: igmp query v2 [max resp time 1]

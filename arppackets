@@ -1,0 +1,16 @@
+20:59:30.837115 ARP, Request who-has 192.168.43.193 tell 192.168.43.1, length 28
+20:59:30.837144 ARP, Reply 192.168.43.193 is-at 14:2d:27:e8:55:c5, length 28
+20:59:46.195509 ARP, Request who-has 192.168.43.193 tell 192.168.43.1, length 28
+20:59:46.195541 ARP, Reply 192.168.43.193 is-at 14:2d:27:e8:55:c5, length 28
+21:00:01.520800 ARP, Request who-has 192.168.43.1 tell 192.168.43.193, length 28
+21:00:01.554679 ARP, Reply 192.168.43.1 is-at ac:c1:ee:b0:19:bd, length 28
+21:02:57.904733 ARP, Request who-has 192.168.43.1 tell 192.168.43.193, length 28
+21:02:58.072606 ARP, Request who-has 192.168.43.193 tell 192.168.43.1, length 28
+21:02:58.072631 ARP, Reply 192.168.43.193 is-at 14:2d:27:e8:55:c5, length 28
+21:02:58.075363 ARP, Reply 192.168.43.1 is-at ac:c1:ee:b0:19:bd, length 28
+21:03:13.625343 ARP, Request who-has 192.168.43.193 tell 192.168.43.1, length 28
+21:03:13.625361 ARP, Reply 192.168.43.193 is-at 14:2d:27:e8:55:c5, length 28
+21:04:27.301738 ARP, Request who-has 192.168.43.193 tell 192.168.43.1, length 28
+21:04:27.301767 ARP, Reply 192.168.43.193 is-at 14:2d:27:e8:55:c5, length 28
+21:05:38.130262 ARP, Request who-has 192.168.43.193 tell 192.168.43.1, length 28
+21:05:38.130289 ARP, Reply 192.168.43.193 is-at 14:2d:27:e8:55:c5, length 28

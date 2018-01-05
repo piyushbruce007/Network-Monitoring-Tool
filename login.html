@@ -1,0 +1,44 @@
+<html>
+
+<body bgcolor="#E0FFFF">
+<h1 align="center">Network Management Tool</h1>
+<div align="center">IPv4 Traffic Analyzer</div></div>
+<div id="wrap">
+<div id="nav">
+<ul>
+<li><a href="info.html">About Traffic Analyzer</a></li></ul></div>
+<form method="POST" action="logindb.php">
+            <p align="center">USERNAME:<input type="text" name="usr" value="" placeholder="Username"></p>
+            <p align="center">PASSWORD:<input type="password" name="pwd" value="" placeholder="Password"></p>
+<br>
+<p align="center">TO CAPTURE         
+<select name="Packets">
+    <option value="UDP">UDP</option>
+    <option value="IP">IP</option>
+    <option value="ARP">ARP</option>
+   
+  </select>
+PACKETS
+</p>
+<br>
+<p align="center">REQUIRED FIELDS
+<select name="FIELDS">
+    <option value="ALL">ALL</option>
+    <option value="PORT">PORT</option>
+    <option value="IP ADDRESS">IP ADDRESS</option>
+   
+  </select>
+</p>
+
+  <br>
+
+            <p align="center">
+            <button type="submit" align="right" name="submit" class="btn btn-success btn-sm">Login</button>
+            </p>
+       </form>
+
+</form>
+
+</body>
+
+</html>

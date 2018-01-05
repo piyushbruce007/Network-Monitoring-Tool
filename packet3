@@ -1,0 +1,428 @@
+13:54:23.242404 ARP, Request who-has 172.31.144.84 tell 172.31.12.64, length 46
+13:54:23.282795 ARP, Request who-has 172.31.5.240 tell 172.31.15.213, length 46
+13:54:23.292663 ARP, Request who-has 172.31.145.84 tell 172.31.12.64, length 46
+13:54:23.342583 ARP, Request who-has 172.31.146.84 tell 172.31.12.64, length 46
+13:54:23.347618 ARP, Request who-has 172.31.5.240 tell 172.31.3.221, length 46
+13:54:23.353960 ARP, Request who-has 172.31.127.84 tell 172.31.12.64, length 46
+13:54:23.354982 ARP, Request who-has 172.31.128.84 tell 172.31.12.64, length 46
+13:54:23.355098 ARP, Request who-has 172.31.129.84 tell 172.31.12.64, length 46
+13:54:23.355301 ARP, Request who-has 172.31.130.84 tell 172.31.12.64, length 46
+13:54:23.355411 ARP, Request who-has 172.31.137.84 tell 172.31.12.64, length 46
+13:54:23.355615 ARP, Request who-has 172.31.138.84 tell 172.31.12.64, length 46
+13:54:23.355729 ARP, Request who-has 172.31.139.84 tell 172.31.12.64, length 46
+13:54:23.355932 ARP, Request who-has 172.31.140.84 tell 172.31.12.64, length 46
+13:54:23.356049 ARP, Request who-has 172.31.141.84 tell 172.31.12.64, length 46
+13:54:23.392568 ARP, Request who-has 172.31.147.84 tell 172.31.12.64, length 46
+13:54:23.443806 ARP, Request who-has 172.31.148.84 tell 172.31.12.64, length 46
+13:54:23.467461 IP6 fe80::1990:a3e7:ca22:bc2d > ff02::1:ffd9:eda4: ICMP6, neighbor solicitation, who has fe80::fa1e:dfff:fed9:eda4, length 32
+13:54:23.482780 ARP, Request who-has 172.31.1.93 tell 172.31.1.95, length 46
+13:54:23.548334 IP6 fe80::1990:a3e7:ca22:bc2d > ff02::1:ffd5:e4e2: ICMP6, neighbor solicitation, who has fe80::40a:434d:a4d5:e4e2, length 32
+13:54:23.548346 IP6 fe80::1990:a3e7:ca22:bc2d > ff02::1:ff5f:704: ICMP6, neighbor solicitation, who has fe80::14f9:956e:415f:704, length 32
+13:54:23.548347 IP6 fe80::1990:a3e7:ca22:bc2d > ff02::1:ffb8:1237: ICMP6, neighbor solicitation, who has fe80::183a:d81:2b8:1237, length 32
+13:54:23.548348 IP6 fe80::1990:a3e7:ca22:bc2d > ff02::1:ff70:fa93: ICMP6, neighbor solicitation, who has fe80::6030:22a9:fc70:fa93, length 32
+13:54:23.594013 ARP, Request who-has 172.31.149.84 tell 172.31.12.64, length 46
+13:54:23.745452 ARP, Request who-has 172.31.150.84 tell 172.31.12.64, length 46
+13:54:23.784508 ARP, Request who-has 172.31.1.11 tell 172.31.1.117, length 46
+13:54:23.795379 ARP, Request who-has 172.31.151.84 tell 172.31.12.64, length 46
+13:54:23.845436 ARP, Request who-has 172.31.152.84 tell 172.31.12.64, length 46
+13:54:23.853966 ARP, Request who-has 172.31.131.84 tell 172.31.12.64, length 46
+13:54:23.855071 ARP, Request who-has 172.31.132.84 tell 172.31.12.64, length 46
+13:54:23.855179 ARP, Request who-has 172.31.133.84 tell 172.31.12.64, length 46
+13:54:23.855389 ARP, Request who-has 172.31.134.84 tell 172.31.12.64, length 46
+13:54:23.855496 ARP, Request who-has 172.31.135.84 tell 172.31.12.64, length 46
+13:54:23.855705 ARP, Request who-has 172.31.136.84 tell 172.31.12.64, length 46
+13:54:23.855812 ARP, Request who-has 172.31.142.84 tell 172.31.12.64, length 46
+13:54:23.855985 ARP, Request who-has 172.31.143.84 tell 172.31.12.64, length 46
+13:54:23.856156 ARP, Request who-has 172.31.144.84 tell 172.31.12.64, length 46
+13:54:23.856337 ARP, Request who-has 172.31.145.84 tell 172.31.12.64, length 46
+13:54:23.856488 ARP, Request who-has 172.31.146.84 tell 172.31.12.64, length 46
+13:54:23.892127 ARP, Request who-has 172.31.5.240 tell 172.31.15.213, length 46
+13:54:23.892944 ARP, Request who-has 172.28.1.254 tell 172.28.47.104, length 46
+13:54:23.935176 ARP, Request who-has 172.31.1.135 tell 172.31.1.94, length 46
+13:54:23.938774 ARP, Request who-has 172.31.1.227 tell 172.31.1.94, length 46
+13:54:23.999769 ARP, Request who-has 172.31.153.84 tell 172.31.12.64, length 46
+13:54:24.005335 ARP, Request who-has 172.31.100.77 tell 172.31.100.76, length 46
+13:54:24.039853 ARP, Request who-has 15.15.151.15 (ff:ff:ff:ff:ff:ff) tell 15.15.151.15, length 46
+13:54:24.047582 IP6 fe80::1990:a3e7:ca22:bc2d > ff02::1:ff40:a282: ICMP6, neighbor solicitation, who has fe80::fd54:4747:3840:a282, length 32
+13:54:24.047594 IP6 fe80::1990:a3e7:ca22:bc2d > ff02::1:ffd9:eda4: ICMP6, neighbor solicitation, who has fe80::fa1e:dfff:fed9:eda4, length 32
+13:54:24.115558 ARP, Request who-has 172.31.5.240 tell 172.31.3.221, length 46
+13:54:24.136585 STP 802.1d, Config, Flags [none], bridge-id 8001.e8:ed:f3:96:e6:80.800d, length 43
+13:54:24.147105 IP 172.31.1.130.53 > 172.31.12.194.49254: 36096 NXDomain 0/1/0 (120)
+13:54:24.147510 IP 172.31.12.194.49254 > 172.31.1.130.53: 26497+ PTR? 81.40.31.172.in-addr.arpa. (43)
+13:54:24.164289 IP6 2001:df0:92:0:bcdd:bd1f:e867:d26b.44367 > 2001:67c:1560:8003::c7.123: NTPv4, Client, length 48
+13:54:24.187367 ARP, Request who-has 172.31.1.60 tell 172.31.7.12, length 46
+13:54:24.198352 IP 0.0.0.0.68 > 255.255.255.255.67: BOOTP/DHCP, Request from 34:40:b5:1a:a3:00, length 300
+13:54:24.245754 ARP, Request who-has 172.31.154.84 tell 172.31.12.64, length 46
+13:54:24.250559 MS NLB heartbeat, host priority: 1, cluster IP: 0.0.0.0, host IP: 0.0.0.0
+13:54:24.295368 ARP, Request who-has 172.31.155.84 tell 172.31.12.64, length 46
+13:54:24.345426 ARP, Request who-has 172.31.156.84 tell 172.31.12.64, length 46
+13:54:24.348765 ARP, Request who-has 172.31.8.103 tell 172.31.1.250, length 46
+13:54:24.354050 ARP, Request who-has 172.31.137.84 tell 172.31.12.64, length 46
+13:54:24.355955 ARP, Request who-has 172.31.138.84 tell 172.31.12.64, length 46
+13:54:24.355974 ARP, Request who-has 172.31.139.84 tell 172.31.12.64, length 46
+13:54:24.355979 ARP, Request who-has 172.31.140.84 tell 172.31.12.64, length 46
+13:54:24.356046 ARP, Request who-has 172.31.141.84 tell 172.31.12.64, length 46
+13:54:24.356220 ARP, Request who-has 172.31.147.84 tell 172.31.12.64, length 46
+13:54:24.356459 ARP, Request who-has 172.31.148.84 tell 172.31.12.64, length 46
+13:54:24.356550 ARP, Request who-has 172.31.149.84 tell 172.31.12.64, length 46
+13:54:24.356731 ARP, Request who-has 172.31.150.84 tell 172.31.12.64, length 46
+13:54:24.356876 ARP, Request who-has 172.31.151.84 tell 172.31.12.64, length 46
+13:54:24.357052 ARP, Request who-has 172.31.152.84 tell 172.31.12.64, length 46
+13:54:24.362680 IP6 2001:67c:1560:8003::c7.123 > 2001:df0:92:0:bcdd:bd1f:e867:d26b.44367: NTPv4, Server, length 48
+13:54:24.395361 ARP, Request who-has 172.31.157.84 tell 172.31.12.64, length 46
+13:54:24.436269 ARP, Request who-has 172.31.1.34 tell 172.31.1.37, length 46
+13:54:24.445378 ARP, Request who-has 172.31.158.84 tell 172.31.12.64, length 46
+13:54:24.464763 IP6 fe80::1990:a3e7:ca22:bc2d > ff02::1:ffbf:e6e8: ICMP6, neighbor solicitation, who has fe80::d0a:ed8:ecbf:e6e8, length 32
+13:54:24.465711 IP6 fe80::1990:a3e7:ca22:bc2d > ff02::1:ffae:7641: ICMP6, neighbor solicitation, who has fe80::129a:ddff:feae:7641, length 32
+13:54:24.483110 ARP, Request who-has 172.31.1.93 tell 172.31.1.95, length 46
+13:54:24.495442 ARP, Request who-has 172.31.159.84 tell 172.31.12.64, length 46
+13:54:24.536694 IP6 fe80::5172:282f:5568:dd4a.49812 > ff02::c.1900: UDP, length 146
+13:54:24.547580 IP6 fe80::1990:a3e7:ca22:bc2d > ff02::1:ffd5:e4e2: ICMP6, neighbor solicitation, who has fe80::40a:434d:a4d5:e4e2, length 32
+13:54:24.547590 IP6 fe80::1990:a3e7:ca22:bc2d > ff02::1:ff5f:704: ICMP6, neighbor solicitation, who has fe80::14f9:956e:415f:704, length 32
+13:54:24.547591 IP6 fe80::1990:a3e7:ca22:bc2d > ff02::1:ffb8:1237: ICMP6, neighbor solicitation, who has fe80::183a:d81:2b8:1237, length 32
+13:54:24.547592 IP6 fe80::1990:a3e7:ca22:bc2d > ff02::1:ff70:fa93: ICMP6, neighbor solicitation, who has fe80::6030:22a9:fc70:fa93, length 32
+13:54:24.649198 ARP, Request who-has 172.31.160.84 tell 172.31.12.64, length 46
+13:54:24.710972 IP 172.31.1.130.53 > 172.31.12.194.49254: 26497 NXDomain 0/1/0 (120)
+13:54:24.711258 IP 172.31.12.194.49254 > 172.31.1.130.53: 33515+ PTR? 81.22.31.172.in-addr.arpa. (43)
+13:54:24.797141 ARP, Request who-has 172.31.161.84 tell 172.31.12.64, length 46
+13:54:24.841714 ARP, Request who-has 172.31.57.156 tell 172.31.1.41, length 46
+13:54:24.853975 ARP, Request who-has 172.31.142.84 tell 172.31.12.64, length 46
+13:54:24.855716 ARP, Request who-has 172.31.143.84 tell 172.31.12.64, length 46
+13:54:24.855719 ARP, Request who-has 172.31.144.84 tell 172.31.12.64, length 46
+13:54:24.855899 ARP, Request who-has 172.31.145.84 tell 172.31.12.64, length 46
+13:54:24.856056 ARP, Request who-has 172.31.146.84 tell 172.31.12.64, length 46
+13:54:24.856235 ARP, Request who-has 172.31.153.84 tell 172.31.12.64, length 46
+13:54:24.856392 ARP, Request who-has 172.31.154.84 tell 172.31.12.64, length 46
+13:54:24.856551 ARP, Request who-has 172.31.155.84 tell 172.31.12.64, length 46
+13:54:24.856708 ARP, Request who-has 172.31.156.84 tell 172.31.12.64, length 46
+13:54:24.861407 ARP, Request who-has 172.31.5.240 tell 172.31.15.213, length 46
+13:54:24.876498 ARP, Request who-has 172.31.162.84 tell 172.31.12.64, length 46
+13:54:24.927140 ARP, Request who-has 172.31.163.84 tell 172.31.12.64, length 46
+13:54:24.939079 IP 172.31.12.127.5353 > 224.0.0.251.5353: 13 [3q] PTR (QM)? _37F83649._sub._googlecast._tcp.local. PTR (QM)? _CC1AD845._sub._googlecast._tcp.local. PTR (QM)? _googlecast._tcp.local. (77)
+13:54:24.940566 ARP, Request who-has 172.31.1.227 tell 172.31.1.94, length 46
+13:54:24.940580 ARP, Request who-has 172.31.1.135 tell 172.31.1.94, length 46
+13:54:25.007379 ARP, Request who-has 172.31.100.77 tell 172.31.100.76, length 46
+13:54:25.029843 ARP, Request who-has 172.20.160.39 tell 172.20.167.254, length 46
+13:54:25.047409 IP6 fe80::1990:a3e7:ca22:bc2d > ff02::1:ffd9:eda4: ICMP6, neighbor solicitation, who has fe80::fa1e:dfff:fed9:eda4, length 32
+13:54:25.047418 IP6 fe80::1990:a3e7:ca22:bc2d > ff02::1:ffbf:e6e8: ICMP6, neighbor solicitation, who has fe80::d0a:ed8:ecbf:e6e8, length 32
+13:54:25.047419 IP6 fe80::1990:a3e7:ca22:bc2d > ff02::1:ffae:7641: ICMP6, neighbor solicitation, who has fe80::129a:ddff:feae:7641, length 32
+13:54:25.078394 ARP, Request who-has 172.31.164.84 tell 172.31.12.64, length 46
+13:54:25.078492 IP 172.31.12.194.46572 > 117.240.209.196.443: Flags [F.], seq 2186535232, ack 1787627717, win 229, options [nop,nop,TS val 4849280 ecr 413801475], length 0
+13:54:25.080306 Loopback, skipCount 0, Reply, receipt number 0, data (40 octets)
+13:54:25.115615 ARP, Request who-has 172.31.5.240 tell 172.31.3.221, length 46
+13:54:25.187397 ARP, Request who-has 172.31.1.60 tell 172.31.7.12, length 46
+13:54:25.280038 IP 172.31.1.130.53 > 172.31.12.194.49254: 33515 NXDomain 0/1/0 (120)
+13:54:25.280599 IP 172.31.12.194.49254 > 172.31.1.130.53: 10247+ PTR? 81.23.31.172.in-addr.arpa. (43)
+13:54:25.284509 ARP, Request who-has 172.31.1.11 tell 172.31.1.117, length 46
+13:54:25.327629 ARP, Request who-has 172.31.165.84 tell 172.31.12.64, length 46
+13:54:25.357281 ARP, Request who-has 172.31.147.84 tell 172.31.12.64, length 46
+13:54:25.357405 ARP, Request who-has 172.31.148.84 tell 172.31.12.64, length 46
+13:54:25.357584 ARP, Request who-has 172.31.149.84 tell 172.31.12.64, length 46
+13:54:25.357743 ARP, Request who-has 172.31.150.84 tell 172.31.12.64, length 46
+13:54:25.357892 ARP, Request who-has 172.31.151.84 tell 172.31.12.64, length 46
+13:54:25.358034 ARP, Request who-has 172.31.152.84 tell 172.31.12.64, length 46
+13:54:25.358195 ARP, Request who-has 172.31.157.84 tell 172.31.12.64, length 46
+13:54:25.358353 ARP, Request who-has 172.31.158.84 tell 172.31.12.64, length 46
+13:54:25.358501 ARP, Request who-has 172.31.159.84 tell 172.31.12.64, length 46
+13:54:25.358742 ARP, Request who-has 172.31.160.84 tell 172.31.12.64, length 46
+13:54:25.358858 ARP, Request who-has 172.31.161.84 tell 172.31.12.64, length 46
+13:54:25.373339 ARP, Request who-has 172.20.160.18 tell 172.20.167.254, length 46
+13:54:25.384983 ARP, Request who-has 172.31.166.84 tell 172.31.12.64, length 46
+13:54:25.436295 ARP, Request who-has 172.31.1.34 tell 172.31.1.37, length 46
+13:54:25.453543 IP 172.31.1.130.53 > 172.31.12.194.49254: 10247 NXDomain 0/1/0 (120)
+13:54:25.453827 IP 172.31.12.194.49254 > 172.31.1.130.53: 16736+ PTR? 81.24.31.172.in-addr.arpa. (43)
+13:54:25.482618 ARP, Request who-has 172.31.1.93 tell 172.31.1.95, length 46
+13:54:25.542339 ARP, Request who-has 172.31.167.84 tell 172.31.12.64, length 46
+13:54:25.547673 IP6 fe80::1990:a3e7:ca22:bc2d > ff02::1:ffd4:3cda: ICMP6, neighbor solicitation, who has fe80::e8e0:9a68:79d4:3cda, length 32
+13:54:25.556798 ARP, Request who-has 172.31.168.84 tell 172.31.12.64, length 46
+13:54:25.573321 ARP, Request who-has 172.31.169.84 tell 172.31.12.64, length 46
+13:54:25.579404 ARP, Request who-has 172.31.170.84 tell 172.31.12.64, length 46
+13:54:25.627213 IP 172.31.1.130.53 > 172.31.12.194.49254: 16736 NXDomain 0/1/0 (120)
+13:54:25.627495 IP 172.31.12.194.49254 > 172.31.1.130.53: 41638+ PTR? 81.25.31.172.in-addr.arpa. (43)
+13:54:25.728176 ARP, Request who-has 172.31.171.84 tell 172.31.12.64, length 46
+13:54:25.800606 IP 172.31.1.130.53 > 172.31.12.194.49254: 41638 NXDomain 0/1/0 (120)
+13:54:25.800915 IP 172.31.12.194.49254 > 172.31.1.130.53: 44242+ PTR? 81.32.31.172.in-addr.arpa. (43)
+13:54:25.854164 ARP, Request who-has 172.31.153.84 tell 172.31.12.64, length 46
+13:54:25.855549 ARP, Request who-has 172.31.154.84 tell 172.31.12.64, length 46
+13:54:25.855557 ARP, Request who-has 172.31.155.84 tell 172.31.12.64, length 46
+13:54:25.855559 ARP, Request who-has 172.31.156.84 tell 172.31.12.64, length 46
+13:54:25.855560 ARP, Request who-has 172.31.162.84 tell 172.31.12.64, length 46
+13:54:25.855741 ARP, Request who-has 172.31.163.84 tell 172.31.12.64, length 46
+13:54:25.855907 ARP, Request who-has 172.31.164.84 tell 172.31.12.64, length 46
+13:54:25.856071 ARP, Request who-has 172.31.165.84 tell 172.31.12.64, length 46
+13:54:25.880166 ARP, Request who-has 172.31.172.84 tell 172.31.12.64, length 46
+13:54:25.927534 ARP, Request who-has 172.31.173.84 tell 172.31.12.64, length 46
+13:54:25.939973 IP 172.31.12.127.5353 > 224.0.0.251.5353: 14 [3q] PTR (QM)? _37F83649._sub._googlecast._tcp.local. PTR (QM)? _CC1AD845._sub._googlecast._tcp.local. PTR (QM)? _googlecast._tcp.local. (77)
+13:54:25.939996 ARP, Request who-has 172.31.1.135 tell 172.31.1.94, length 46
+13:54:25.940001 ARP, Request who-has 172.31.1.227 tell 172.31.1.94, length 46
+13:54:25.970400 IP 172.31.9.48.4200 > 172.31.1.153.13000: Flags [S], seq 2926676694, win 65535, options [mss 1460,nop,wscale 1,nop,nop,sackOK], length 0
+13:54:25.974141 IP 172.31.1.130.53 > 172.31.12.194.49254: 44242 NXDomain 0/1/0 (120)
+13:54:25.974459 IP 172.31.12.194.49254 > 172.31.1.130.53: 28282+ PTR? 81.41.31.172.in-addr.arpa. (43)
+13:54:25.977717 ARP, Request who-has 172.31.174.84 tell 172.31.12.64, length 46
+13:54:26.007352 ARP, Request who-has 172.31.100.77 tell 172.31.100.76, length 46
+13:54:26.047729 IP6 fe80::1990:a3e7:ca22:bc2d > ff02::1:ffbf:e6e8: ICMP6, neighbor solicitation, who has fe80::d0a:ed8:ecbf:e6e8, length 32
+13:54:26.047739 IP6 fe80::1990:a3e7:ca22:bc2d > ff02::1:ffae:7641: ICMP6, neighbor solicitation, who has fe80::129a:ddff:feae:7641, length 32
+13:54:26.128651 ARP, Request who-has 172.31.175.84 tell 172.31.12.64, length 46
+13:54:26.136180 STP 802.1d, Config, Flags [none], bridge-id 8001.e8:ed:f3:96:e6:80.800d, length 43
+13:54:26.170091 IP 172.26.120.24.60184 > 172.31.1.193.161:  GetRequest(30)  .1.3.6.1.2.1.43.10.2.1.4.1.1
+13:54:26.173135 IP 172.26.120.24.2503 > 172.31.1.193.9100: Flags [S], seq 519499355, win 8192, options [mss 1460,nop,wscale 2,nop,nop,sackOK], length 0
+13:54:26.243923 ARP, Request who-has 172.31.1.210 tell 172.31.1.94, length 46
+13:54:26.354274 ARP, Request who-has 172.31.157.84 tell 172.31.12.64, length 46
+13:54:26.356709 ARP, Request who-has 172.31.158.84 tell 172.31.12.64, length 46
+13:54:26.356798 ARP, Request who-has 172.31.159.84 tell 172.31.12.64, length 46
+13:54:26.357068 ARP, Request who-has 172.31.160.84 tell 172.31.12.64, length 46
+13:54:26.357188 ARP, Request who-has 172.31.161.84 tell 172.31.12.64, length 46
+13:54:26.357355 ARP, Request who-has 172.31.166.84 tell 172.31.12.64, length 46
+13:54:26.357515 ARP, Request who-has 172.31.167.84 tell 172.31.12.64, length 46
+13:54:26.357671 ARP, Request who-has 172.31.168.84 tell 172.31.12.64, length 46
+13:54:26.357842 ARP, Request who-has 172.31.169.84 tell 172.31.12.64, length 46
+13:54:26.357985 ARP, Request who-has 172.31.170.84 tell 172.31.12.64, length 46
+13:54:26.358144 ARP, Request who-has 172.31.171.84 tell 172.31.12.64, length 46
+13:54:26.361492 ARP, Request who-has 172.31.156.156 tell 172.31.13.200, length 46
+13:54:26.381645 ARP, Request who-has 172.31.176.84 tell 172.31.12.64, length 46
+13:54:26.431636 ARP, Request who-has 172.31.177.84 tell 172.31.12.64, length 46
+13:54:26.436323 ARP, Request who-has 172.31.1.34 tell 172.31.1.37, length 46
+13:54:26.482340 ARP, Request who-has 172.31.178.84 tell 172.31.12.64, length 46
+13:54:26.482721 ARP, Request who-has 172.31.1.93 tell 172.31.1.95, length 46
+13:54:26.531723 ARP, Request who-has 172.31.179.84 tell 172.31.12.64, length 46
+13:54:26.547451 IP6 fe80::1990:a3e7:ca22:bc2d > ff02::1:ffd4:3cda: ICMP6, neighbor solicitation, who has fe80::e8e0:9a68:79d4:3cda, length 32
+13:54:26.583802 ARP, Request who-has 172.31.180.84 tell 172.31.12.64, length 46
+13:54:26.632417 ARP, Request who-has 172.31.181.84 tell 172.31.12.64, length 46
+13:54:26.781695 ARP, Request who-has 172.31.182.84 tell 172.31.12.64, length 46
+13:54:26.787782 ARP, Request who-has 172.31.1.11 tell 172.31.1.117, length 46
+13:54:26.854330 ARP, Request who-has 172.31.162.84 tell 172.31.12.64, length 46
+13:54:26.855529 ARP, Request who-has 172.31.163.84 tell 172.31.12.64, length 46
+13:54:26.855690 ARP, Request who-has 172.31.164.84 tell 172.31.12.64, length 46
+13:54:26.855855 ARP, Request who-has 172.31.165.84 tell 172.31.12.64, length 46
+13:54:26.856015 ARP, Request who-has 172.31.172.84 tell 172.31.12.64, length 46
+13:54:26.856159 ARP, Request who-has 172.31.173.84 tell 172.31.12.64, length 46
+13:54:26.856377 ARP, Request who-has 172.31.174.84 tell 172.31.12.64, length 46
+13:54:26.856537 ARP, Request who-has 172.31.175.84 tell 172.31.12.64, length 46
+13:54:26.931743 ARP, Request who-has 172.31.183.84 tell 172.31.12.64, length 46
+13:54:26.941230 ARP, Request who-has 172.31.1.227 tell 172.31.1.94, length 46
+13:54:26.941251 ARP, Request who-has 172.31.1.135 tell 172.31.1.94, length 46
+13:54:26.941255 IP 172.31.12.127.5353 > 224.0.0.251.5353: 15 [3q] PTR (QM)? _37F83649._sub._googlecast._tcp.local. PTR (QM)? _CC1AD845._sub._googlecast._tcp.local. PTR (QM)? _googlecast._tcp.local. (77)
+13:54:26.981753 ARP, Request who-has 172.31.184.84 tell 172.31.12.64, length 46
+13:54:27.008297 ARP, Request who-has 172.31.100.77 tell 172.31.100.76, length 46
+13:54:27.031775 ARP, Request who-has 172.31.185.84 tell 172.31.12.64, length 46
+13:54:27.073210 IP 172.31.1.130.53 > 172.31.12.194.49254: 28282 NXDomain 0/1/0 (120)
+13:54:27.073490 IP 172.31.12.194.49254 > 172.31.1.130.53: 60774+ PTR? 81.42.31.172.in-addr.arpa. (43)
+13:54:27.075762 ARP, Request who-has 172.28.1.254 tell 172.28.47.104, length 46
+13:54:27.186086 ARP, Request who-has 172.31.186.84 tell 172.31.12.64, length 46
+13:54:27.202168 ARP, Request who-has 151.10.98.98 (ff:ff:ff:ff:ff:ff) tell 151.10.98.98, length 46
+13:54:27.223803 ARP, Request who-has 172.31.8.103 tell 172.31.1.250, length 46
+13:54:27.244475 ARP, Request who-has 172.31.1.210 tell 172.31.1.94, length 46
+13:54:27.247051 IP 172.31.1.130.53 > 172.31.12.194.49254: 60774 NXDomain 0/1/0 (120)
+13:54:27.247339 IP 172.31.12.194.49254 > 172.31.1.130.53: 63082+ PTR? 81.43.31.172.in-addr.arpa. (43)
+13:54:27.354455 ARP, Request who-has 172.31.166.84 tell 172.31.12.64, length 46
+13:54:27.356199 ARP, Request who-has 172.31.167.84 tell 172.31.12.64, length 46
+13:54:27.356353 ARP, Request who-has 172.31.168.84 tell 172.31.12.64, length 46
+13:54:27.356523 ARP, Request who-has 172.31.169.84 tell 172.31.12.64, length 46
+13:54:27.356681 ARP, Request who-has 172.31.170.84 tell 172.31.12.64, length 46
+13:54:27.356840 ARP, Request who-has 172.31.171.84 tell 172.31.12.64, length 46
+13:54:27.356997 ARP, Request who-has 172.31.176.84 tell 172.31.12.64, length 46
+13:54:27.357156 ARP, Request who-has 172.31.177.84 tell 172.31.12.64, length 46
+13:54:27.357291 ARP, Request who-has 172.31.178.84 tell 172.31.12.64, length 46
+13:54:27.357462 ARP, Request who-has 172.31.179.84 tell 172.31.12.64, length 46
+13:54:27.357619 ARP, Request who-has 172.31.180.84 tell 172.31.12.64, length 46
+13:54:27.357777 ARP, Request who-has 172.31.181.84 tell 172.31.12.64, length 46
+13:54:27.357935 ARP, Request who-has 172.31.182.84 tell 172.31.12.64, length 46
+13:54:27.431929 ARP, Request who-has 172.31.187.84 tell 172.31.12.64, length 46
+13:54:27.466363 IP6 fe80::1990:a3e7:ca22:bc2d > ff02::1:ffbf:e6e8: ICMP6, neighbor solicitation, who has fe80::d0a:ed8:ecbf:e6e8, length 32
+13:54:27.466866 IP6 fe80::1990:a3e7:ca22:bc2d > ff02::1:ffae:7641: ICMP6, neighbor solicitation, who has fe80::129a:ddff:feae:7641, length 32
+13:54:27.481751 ARP, Request who-has 172.31.188.84 tell 172.31.12.64, length 46
+13:54:27.533249 ARP, Request who-has 172.31.189.84 tell 172.31.12.64, length 46
+13:54:27.542377 IP6 fe80::5172:282f:5568:dd4a.49812 > ff02::c.1900: UDP, length 146
+13:54:27.547492 IP6 fe80::1990:a3e7:ca22:bc2d > ff02::1:ffdd:40a5: ICMP6, neighbor solicitation, who has fe80::a65e:60ff:fedd:40a5, length 32
+13:54:27.574323 ARP, Request who-has 172.31.1.130 tell 172.31.9.45, length 46
+13:54:27.584570 ARP, Request who-has 172.31.190.84 tell 172.31.12.64, length 46
+13:54:27.637193 ARP, Request who-has 172.31.191.84 tell 172.31.12.64, length 46
+13:54:27.691398 ARP, Request who-has 172.31.192.84 tell 172.31.12.64, length 46
+13:54:27.697856 IP6 fe80::6476:7d46:51fa:e09.56898 > ff02::1:3.5355: UDP, length 22
+13:54:27.698901 IP 172.31.9.45.57980 > 224.0.0.252.5355: UDP, length 22
+13:54:27.798461 IP6 fe80::6476:7d46:51fa:e09.56898 > ff02::1:3.5355: UDP, length 22
+13:54:27.798514 IP 172.31.9.45.57980 > 224.0.0.252.5355: UDP, length 22
+13:54:27.810113 ac:d1:b8:c3:62:0b > ff:ff:ff:ff:ff:ff Null Unnumbered, xid, Flags [Command], length 46
+	0x0000:  0000 af00 0000 0000 0000 0000 0000 0000  ................
+	0x0010:  0000 0000 0000 0000 0000 0000 0000 0000  ................
+	0x0020:  0000 0000 0000 0000 0000 0000 0000       ..............
+13:54:27.851501 ARP, Request who-has 172.31.193.84 tell 172.31.12.64, length 46
+13:54:27.854343 ARP, Request who-has 172.31.172.84 tell 172.31.12.64, length 46
+13:54:27.855848 ARP, Request who-has 172.31.173.84 tell 172.31.12.64, length 46
+13:54:27.856001 ARP, Request who-has 172.31.174.84 tell 172.31.12.64, length 46
+13:54:27.856180 ARP, Request who-has 172.31.175.84 tell 172.31.12.64, length 46
+13:54:27.856360 ARP, Request who-has 172.31.183.84 tell 172.31.12.64, length 46
+13:54:27.856528 ARP, Request who-has 172.31.184.84 tell 172.31.12.64, length 46
+13:54:27.856686 ARP, Request who-has 172.31.185.84 tell 172.31.12.64, length 46
+13:54:27.856845 ARP, Request who-has 172.31.186.84 tell 172.31.12.64, length 46
+13:54:27.865918 IP6 :: > ff02::1:ff94:3162: ICMP6, neighbor solicitation, who has fe80::b1d2:493d:fc94:3162, length 24
+13:54:27.892665 ARP, Request who-has 172.20.166.100 tell 172.20.167.254, length 46
+13:54:27.906102 IP6 fe80::b1d2:493d:fc94:3162 > ff02::2: ICMP6, router solicitation, length 8
+13:54:27.908948 IP6 fe80::da24:bdff:fe91:5d40 > ff02::1: ICMP6, router advertisement, length 64
+13:54:27.909534 IP 172.31.1.37.5247 > 172.31.15.112.5272: UDP, length 152
+13:54:27.909590 IP 172.31.1.37.5247 > 172.31.12.31.5256: UDP, length 152
+13:54:27.934997 IP6 fe80::b1d2:493d:fc94:3162 > ff02::1:ff91:5d40: ICMP6, neighbor solicitation, who has fe80::da24:bdff:fe91:5d40, length 32
+13:54:27.941271 ARP, Request who-has 172.31.1.135 tell 172.31.1.94, length 46
+13:54:27.941281 ARP, Request who-has 172.31.1.227 tell 172.31.1.94, length 46
+13:54:27.956418 IP 0.0.0.0.68 > 255.255.255.255.67: BOOTP/DHCP, Request from ac:d1:b8:c3:62:0b, length 300
+13:54:27.957037 ARP, Request who-has 172.31.12.183 tell 172.31.1.1, length 46
+13:54:27.966815 ARP, Request who-has 172.31.57.156 tell 172.31.1.41, length 46
+13:54:27.997426 IP 0.0.0.0.68 > 255.255.255.255.67: BOOTP/DHCP, Request from ac:d1:b8:c3:62:0b, length 305
+13:54:27.998944 IP 172.31.9.45.137 > 172.31.255.255.137: NBT UDP PACKET(137): QUERY; REQUEST; BROADCAST
+13:54:27.999307 ARP, Reply 172.31.12.183 is-at ac:d1:b8:c3:62:0b, length 46
+13:54:28.018242 ARP, Request who-has 172.31.194.84 tell 172.31.12.64, length 46
+13:54:28.040271 ARP, Request who-has 172.31.1.250 tell 172.31.12.183, length 46
+13:54:28.040280 ARP, Request who-has 172.31.1.250 tell 172.31.12.183, length 46
+13:54:28.041338 IP6 fe80::b1d2:493d:fc94:3162.52683 > ff02::1:3.5355: UDP, length 22
+13:54:28.041864 IP 172.31.12.183.52683 > 224.0.0.252.5355: UDP, length 22
+13:54:28.043039 IP6 fe80::b1d2:493d:fc94:3162.58051 > ff02::1:3.5355: UDP, length 22
+13:54:28.043051 IP 172.31.12.183.58051 > 224.0.0.252.5355: UDP, length 22
+13:54:28.046215 IP6 fe80::b1d2:493d:fc94:3162.546 > ff02::1:2.547: dhcp6 solicit
+13:54:28.047805 IP6 fe80::1990:a3e7:ca22:bc2d > ff02::1:ffbf:e6e8: ICMP6, neighbor solicitation, who has fe80::d0a:ed8:ecbf:e6e8, length 32
+13:54:28.047814 IP6 fe80::1990:a3e7:ca22:bc2d > ff02::1:ffae:7641: ICMP6, neighbor solicitation, who has fe80::129a:ddff:feae:7641, length 32
+13:54:28.071209 ARP, Request who-has 172.31.1.130 tell 172.31.12.183, length 46
+13:54:28.073309 ARP, Request who-has 172.28.1.254 tell 172.28.47.104, length 46
+13:54:28.078772 ARP, Request who-has 172.31.1.250 tell 172.31.12.183, length 46
+13:54:28.083378 IP6 fe80::b1d2:493d:fc94:3162.58152 > ff02::1:3.5355: UDP, length 24
+13:54:28.083388 IP 172.31.12.183.58152 > 224.0.0.252.5355: UDP, length 24
+13:54:28.100348 ARP, Request who-has 172.31.195.84 tell 172.31.12.64, length 46
+13:54:28.106858 ARP, Request who-has 172.31.196.84 tell 172.31.12.64, length 46
+13:54:28.107844 IP6 fe80::b1d2:493d:fc94:3162 > ff02::16: HBH ICMP6, multicast listener report v2, 1 group record(s), length 28
+13:54:28.116509 IP6 fe80::b1d2:493d:fc94:3162.54148 > ff02::c.3702: UDP, length 1183
+13:54:28.117383 IP6 fe80::b1d2:493d:fc94:3162 > ff02::16: HBH ICMP6, multicast listener report v2, 1 group record(s), length 28
+13:54:28.121647 IP6 2001:df0:92:0:a491:a0c4:738a:fcf8 > ff02::1:ff94:3162: ICMP6, neighbor solicitation, who has 2001:df0:92:0:b1d2:493d:fc94:3162, length 32
+13:54:28.122126 IP6 2001:df0:92:0:b0a4:e1:3e53:afda > ff02::1:ff94:3162: ICMP6, neighbor solicitation, who has 2001:df0:92:0:b1d2:493d:fc94:3162, length 32
+13:54:28.122790 ARP, Request who-has 172.31.12.183 tell 172.31.9.91, length 46
+13:54:28.123902 IP6 2001:df0:92:0:a1a9:dc45:d667:3f4d > ff02::1:ff94:3162: ICMP6, neighbor solicitation, who has 2001:df0:92:0:b1d2:493d:fc94:3162, length 32
+13:54:28.124264 ARP, Request who-has 172.31.12.183 tell 172.31.2.6, length 46
+13:54:28.124742 IP6 fe80::b1d2:493d:fc94:3162.54148 > ff02::c.3702: UDP, length 1183
+13:54:28.130183 ARP, Request who-has 172.31.9.91 tell 172.31.12.183, length 46
+13:54:28.130193 IP6 2001:df0:92:0:b1d2:493d:fc94:3162 > ff02::1:ff29:3ccd: ICMP6, neighbor solicitation, who has 2001:df0:92:0:197b:f950:a829:3ccd, length 32
+13:54:28.130346 ARP, Request who-has 172.31.2.6 tell 172.31.12.183, length 46
+13:54:28.130689 IP6 :: > ff02::1:ff94:3162: ICMP6, neighbor solicitation, who has 2001:df0:92:0:b1d2:493d:fc94:3162, length 24
+13:54:28.142889 STP 802.1d, Config, Flags [none], bridge-id 8001.e8:ed:f3:96:e6:80.800d, length 43
+13:54:28.145833 IP6 fe80::b1d2:493d:fc94:3162.54148 > ff02::c.3702: UDP, length 1183
+13:54:28.145841 ARP, Request who-has 172.31.1.250 tell 172.31.12.183, length 46
+13:54:28.173869 IP6 fe80::b1d2:493d:fc94:3162.50474 > ff02::1:3.5355: UDP, length 24
+13:54:28.173900 IP 172.31.12.183.50474 > 224.0.0.252.5355: UDP, length 24
+13:54:28.175591 IP6 fe80::b1d2:493d:fc94:3162.64822 > ff02::1:3.5355: UDP, length 24
+13:54:28.175602 IP 172.31.12.183.64822 > 224.0.0.252.5355: UDP, length 24
+13:54:28.175605 IP6 fe80::b1d2:493d:fc94:3162.55411 > ff02::1:3.5355: UDP, length 24
+13:54:28.177267 IP 172.31.12.183.55411 > 224.0.0.252.5355: UDP, length 24
+13:54:28.185264 IP6 fe80::b1d2:493d:fc94:3162.62018 > ff02::1:3.5355: UDP, length 24
+13:54:28.185345 IP 172.31.12.183.62018 > 224.0.0.252.5355: UDP, length 24
+13:54:28.185349 IP6 :: > ff02::1:ffb8:3e8f: ICMP6, neighbor solicitation, who has 2001:df0:92:0:98df:e282:3fb8:3e8f, length 24
+13:54:28.244449 ARP, Request who-has 172.31.1.210 tell 172.31.1.94, length 46
+13:54:28.261907 IP6 fe80::b1d2:493d:fc94:3162.54148 > ff02::c.3702: UDP, length 1183
+13:54:28.261916 ARP, Request who-has 172.31.197.84 tell 172.31.12.64, length 46
+13:54:28.262369 IP6 fe80::b1d2:493d:fc94:3162.51639 > ff02::1:3.5355: UDP, length 22
+13:54:28.289624 ARP, Request who-has 172.31.1.11 tell 172.31.1.117, length 46
+13:54:28.330234 IP6 fe80::b1d2:493d:fc94:3162.54148 > ff02::c.3702: UDP, length 1183
+13:54:28.334543 IP6 fe80::b1d2:493d:fc94:3162.54148 > ff02::c.3702: UDP, length 1183
+13:54:28.341125 IP6 fe80::b1d2:493d:fc94:3162.58153 > ff02::c.1900: UDP, length 117
+13:54:28.354529 ARP, Request who-has 172.31.176.84 tell 172.31.12.64, length 46
+13:54:28.355560 ARP, Request who-has 172.31.177.84 tell 172.31.12.64, length 46
+13:54:28.355719 ARP, Request who-has 172.31.178.84 tell 172.31.12.64, length 46
+13:54:28.355911 ARP, Request who-has 172.31.179.84 tell 172.31.12.64, length 46
+13:54:28.357784 ARP, Request who-has 172.31.180.84 tell 172.31.12.64, length 46
+13:54:28.359922 ARP, Request who-has 172.31.181.84 tell 172.31.12.64, length 46
+13:54:28.359938 ARP, Request who-has 172.31.182.84 tell 172.31.12.64, length 46
+13:54:28.359941 ARP, Request who-has 172.31.187.84 tell 172.31.12.64, length 46
+13:54:28.362885 ARP, Request who-has 172.31.188.84 tell 172.31.12.64, length 46
+13:54:28.368142 ARP, Request who-has 172.31.189.84 tell 172.31.12.64, length 46
+13:54:28.368161 ARP, Request who-has 172.31.190.84 tell 172.31.12.64, length 46
+13:54:28.368259 IP6 fe80::b1d2:493d:fc94:3162.54148 > ff02::c.3702: UDP, length 1183
+13:54:28.368275 ARP, Request who-has 172.31.191.84 tell 172.31.12.64, length 46
+13:54:28.368284 ARP, Request who-has 172.31.192.84 tell 172.31.12.64, length 46
+13:54:28.368287 ARP, Request who-has 172.31.193.84 tell 172.31.12.64, length 46
+13:54:28.374492 IP6 fe80::b1d2:493d:fc94:3162.55674 > ff02::1:3.5355: UDP, length 24
+13:54:28.375993 IP6 fe80::b1d2:493d:fc94:3162.58153 > ff02::c.1900: UDP, length 117
+13:54:28.407807 IP6 fe80::b1d2:493d:fc94:3162.58153 > ff02::c.1900: UDP, length 117
+13:54:28.413388 ARP, Request who-has 172.31.1.251 tell 172.31.12.183, length 46
+13:54:28.424996 IP6 fe80::b1d2:493d:fc94:3162 > ff02::16: HBH ICMP6, multicast listener report v2, 3 group record(s), length 68
+13:54:28.437097 ARP, Request who-has 172.31.1.34 tell 172.31.1.37, length 46
+13:54:28.437154 IP6 fe80::b1d2:493d:fc94:3162.58153 > ff02::c.1900: UDP, length 117
+13:54:28.464016 ARP, Request who-has 172.31.50.25 tell 172.31.1.250, length 46
+13:54:28.466220 IP6 :: > ff02::1:ff58:e64e: ICMP6, neighbor solicitation, who has 2001:df0:92:0:230:48ff:fe58:e64e, length 24
+13:54:28.478630 IP6 fe80::b1d2:493d:fc94:3162.58153 > ff02::c.1900: UDP, length 117
+13:54:28.503487 IP6 fe80::b1d2:493d:fc94:3162.58153 > ff02::c.1900: UDP, length 117
+13:54:28.505877 IP6 fe80::b1d2:493d:fc94:3162.52683 > ff02::1:3.5355: UDP, length 22
+13:54:28.507483 IP 172.31.12.183.58051 > 224.0.0.252.5355: UDP, length 22
+13:54:28.507489 IP 172.31.12.183.52683 > 224.0.0.252.5355: UDP, length 22
+13:54:28.507558 IP 172.31.12.183.58152 > 224.0.0.252.5355: UDP, length 24
+13:54:28.507627 IP6 fe80::b1d2:493d:fc94:3162.58051 > ff02::1:3.5355: UDP, length 22
+13:54:28.507698 IP6 fe80::b1d2:493d:fc94:3162.58152 > ff02::1:3.5355: UDP, length 24
+13:54:28.507702 ARP, Request who-has 172.31.198.84 tell 172.31.12.64, length 46
+13:54:28.534513 IP6 fe80::b1d2:493d:fc94:3162.58153 > ff02::c.1900: UDP, length 117
+13:54:28.547494 IP6 fe80::1990:a3e7:ca22:bc2d > ff02::1:ffdd:40a5: ICMP6, neighbor solicitation, who has fe80::a65e:60ff:fedd:40a5, length 32
+13:54:28.563657 IP6 fe80::b1d2:493d:fc94:3162.58153 > ff02::c.1900: UDP, length 117
+13:54:28.591822 ARP, Request who-has 172.31.199.84 tell 172.31.12.64, length 46
+13:54:28.599487 ARP, Request who-has 172.31.12.183 tell 172.31.9.219, length 46
+13:54:28.616585 IP 172.31.12.183.62018 > 224.0.0.252.5355: UDP, length 24
+13:54:28.616591 IP 172.31.12.183.55411 > 224.0.0.252.5355: UDP, length 24
+13:54:28.616593 IP 172.31.12.183.50474 > 224.0.0.252.5355: UDP, length 24
+13:54:28.616639 IP6 fe80::b1d2:493d:fc94:3162.50474 > ff02::1:3.5355: UDP, length 24
+13:54:28.616921 IP 172.31.12.183.64822 > 224.0.0.252.5355: UDP, length 24
+13:54:28.617345 IP6 fe80::b1d2:493d:fc94:3162.55411 > ff02::1:3.5355: UDP, length 24
+13:54:28.617549 IP6 fe80::b1d2:493d:fc94:3162.62018 > ff02::1:3.5355: UDP, length 24
+13:54:28.618210 IP6 fe80::b1d2:493d:fc94:3162.64822 > ff02::1:3.5355: UDP, length 24
+13:54:28.618213 ARP, Request who-has 172.31.1.27 tell 172.31.12.183, length 46
+13:54:28.618222 ARP, Request who-has 172.31.9.219 tell 172.31.12.183, length 46
+13:54:28.632263 ARP, Request who-has 172.31.200.84 tell 172.31.12.64, length 46
+13:54:28.636487 ARP, Request who-has 151.8.98.98 (ff:ff:ff:ff:ff:ff) tell 151.8.98.98, length 46
+13:54:28.670113 IP6 fe80::b1d2:493d:fc94:3162 > ff02::16: HBH ICMP6, multicast listener report v2, 1 group record(s), length 28
+13:54:28.673426 IP6 fe80::b1d2:493d:fc94:3162.53636 > ff02::1:3.5355: UDP, length 22
+13:54:28.673436 IP 172.31.12.183.53636 > 224.0.0.252.5355: UDP, length 22
+13:54:28.677029 IP6 fe80::b1d2:493d:fc94:3162 > ff02::16: HBH ICMP6, multicast listener report v2, 1 group record(s), length 28
+13:54:28.714492 ARP, Request who-has 172.31.201.84 tell 172.31.12.64, length 46
+13:54:28.748396 IP 172.31.9.45.137 > 172.31.255.255.137: NBT UDP PACKET(137): QUERY; REQUEST; BROADCAST
+13:54:28.843648 ARP, Request who-has 172.31.202.84 tell 172.31.12.64, length 46
+13:54:28.870732 ARP, Request who-has 172.31.203.84 tell 172.31.12.64, length 46
+13:54:28.882636 ARP, Request who-has 172.31.183.84 tell 172.31.12.64, length 46
+13:54:28.882814 ARP, Request who-has 172.31.184.84 tell 172.31.12.64, length 46
+13:54:28.885407 ARP, Request who-has 172.31.185.84 tell 172.31.12.64, length 46
+13:54:28.885560 ARP, Request who-has 172.31.186.84 tell 172.31.12.64, length 46
+13:54:28.885718 ARP, Request who-has 172.31.194.84 tell 172.31.12.64, length 46
+13:54:28.885881 ARP, Request who-has 172.31.195.84 tell 172.31.12.64, length 46
+13:54:28.887784 ARP, Request who-has 172.31.196.84 tell 172.31.12.64, length 46
+13:54:28.887796 ARP, Request who-has 172.31.197.84 tell 172.31.12.64, length 46
+13:54:28.893494 IP 172.31.9.48.137 > 172.31.255.255.137: NBT UDP PACKET(137): QUERY; REQUEST; BROADCAST
+13:54:28.904926 ARP, Request who-has 172.31.204.84 tell 172.31.12.64, length 46
+13:54:28.912918 IP6 fe80::b1d2:493d:fc94:3162 > ff02::1: ICMP6, neighbor advertisement, tgt is fe80::b1d2:493d:fc94:3162, length 32
+13:54:28.913225 IP 172.31.12.194.49254 > 172.31.1.130.53: 3582+ A? daisy.ubuntu.com. (34)
+13:54:28.913249 IP 172.31.12.194.49254 > 172.31.1.130.53: 32125+ AAAA? daisy.ubuntu.com. (34)
+13:54:28.913471 IP 172.31.1.130.53 > 172.31.12.194.49254: 32125 0/1/0 (95)
+13:54:28.913500 IP 172.31.1.130.53 > 172.31.12.194.49254: 3582 2/4/4 A 162.213.33.133, A 162.213.33.164 (216)
+13:54:28.919000 IP6 fe80::b1d2:493d:fc94:3162 > ff02::16: HBH ICMP6, multicast listener report v2, 1 group record(s), length 28
+13:54:28.922542 IP 172.31.9.48.4200 > 172.31.1.153.13000: Flags [S], seq 2926676694, win 65535, options [mss 1460,nop,wscale 1,nop,nop,sackOK], length 0
+13:54:28.935770 ARP, Request who-has 172.31.57.157 tell 172.31.1.41, length 46
+13:54:28.941981 ARP, Request who-has 172.31.1.135 tell 172.31.1.94, length 46
+13:54:28.947000 ARP, Request who-has 172.31.1.227 tell 172.31.1.94, length 46
+13:54:28.968205 ARP, Request who-has 172.20.167.254 tell 172.20.160.111, length 46
+13:54:28.968990 IP6 2001:df0:92:0:bcdd:bd1f:e867:d26b.42308 > 2404:6800:4002:802::200e.443: Flags [P.], seq 2235718132:2235718274, ack 1758032587, win 371, options [nop,nop,TS val 4850252 ecr 553783471], length 142
+13:54:28.969019 IP6 2001:df0:92:0:bcdd:bd1f:e867:d26b.42308 > 2404:6800:4002:802::200e.443: Flags [P.], seq 142:188, ack 1, win 371, options [nop,nop,TS val 4850252 ecr 553783471], length 46
+13:54:29.007686 ARP, Request who-has 172.31.7.13 tell 172.31.7.12, length 46
+13:54:29.009614 ARP, Request who-has 172.31.100.77 tell 172.31.100.76, length 46
+13:54:29.047705 IP6 fe80::1990:a3e7:ca22:bc2d > ff02::1:ffbf:e6e8: ICMP6, neighbor solicitation, who has fe80::d0a:ed8:ecbf:e6e8, length 32
+13:54:29.047715 IP6 fe80::1990:a3e7:ca22:bc2d > ff02::1:ffae:7641: ICMP6, neighbor solicitation, who has fe80::129a:ddff:feae:7641, length 32
+13:54:29.065667 IP6 2001:df0:92:0:a491:a0c4:738a:fcf8 > ff02::1:ff94:3162: ICMP6, neighbor solicitation, who has 2001:df0:92:0:b1d2:493d:fc94:3162, length 32
+13:54:29.072843 ARP, Request who-has 172.28.1.254 tell 172.28.47.104, length 46
+13:54:29.078456 IP6 2001:df0:92:0:bcdd:bd1f:e867:d26b.42308 > 2404:6800:4002:802::200e.443: Flags [P.], seq 142:188, ack 1, win 371, options [nop,nop,TS val 4850280 ecr 553783471], length 46
+13:54:29.098705 ARP, Request who-has 172.31.205.84 tell 172.31.12.64, length 46
+13:54:29.105950 ARP, Request who-has 172.31.206.84 tell 172.31.12.64, length 46
+13:54:29.116104 IP6 2001:df0:92:0:a1a9:dc45:d667:3f4d > ff02::1:ff94:3162: ICMP6, neighbor solicitation, who has 2001:df0:92:0:b1d2:493d:fc94:3162, length 32
+13:54:29.129985 IP6 2001:df0:92:0:b0a4:e1:3e53:afda > ff02::1:ff94:3162: ICMP6, neighbor solicitation, who has 2001:df0:92:0:b1d2:493d:fc94:3162, length 32
+13:54:29.131364 IP6 fe80::b1d2:493d:fc94:3162.546 > ff02::1:2.547: dhcp6 solicit
+13:54:29.144848 IP6 fe80::b1d2:493d:fc94:3162.53636 > ff02::1:3.5355: UDP, length 22
+13:54:29.144858 IP 172.31.12.183.53636 > 224.0.0.252.5355: UDP, length 22
+13:54:29.157213 ARP, Request who-has 172.31.207.84 tell 172.31.12.64, length 46
+13:54:29.186844 IP6 fe80::a491:a0c4:738a:fcf8 > ff02::1:ff94:3162: ICMP6, neighbor solicitation, who has fe80::b1d2:493d:fc94:3162, length 32
+13:54:29.187006 IP6 fe80::8c70:4493:5848:7b70 > ff02::1:ff94:3162: ICMP6, neighbor solicitation, who has fe80::b1d2:493d:fc94:3162, length 32
+13:54:29.187356 IP6 fe80::2464:9c83:8abf:745a > ff02::1:ff94:3162: ICMP6, neighbor solicitation, who has fe80::b1d2:493d:fc94:3162, length 32
+13:54:29.197137 ARP, Request who-has 172.31.12.183 tell 172.31.11.115, length 46
+13:54:29.197965 ARP, Request who-has 172.31.12.183 tell 172.31.3.221, length 46
+13:54:29.198972 ARP, Request who-has 172.31.12.183 tell 172.31.12.170, length 46
+13:54:29.206549 ARP, Request who-has 172.31.11.115 tell 172.31.12.183, length 46
+13:54:29.207107 ARP, Request who-has 172.31.3.221 tell 172.31.12.183, length 46
+13:54:29.207225 ARP, Request who-has 172.31.12.170 tell 172.31.12.183, length 46
+

@@ -1,0 +1,20 @@
+16:08:08.682595 ARP, Reply 192.168.43.1 is-at ac:c1:ee:b0:19:bd, length 28
+16:08:08.885498 ARP, Request who-has 192.168.43.193 tell 192.168.43.1, length 28
+16:08:08.885520 ARP, Reply 192.168.43.193 is-at 14:2d:27:e8:55:c5, length 28
+16:08:19.463209 ARP, Request who-has 192.168.43.193 tell 192.168.43.1, length 28
+16:08:19.463237 ARP, Reply 192.168.43.193 is-at 14:2d:27:e8:55:c5, length 28
+16:08:27.717013 IP 192.168.43.1.5353 > 224.0.0.251.5353: 0 [2q] PTR (QM)? _233637DE._sub._googlecast._tcp.local. PTR (QM)? _googlecast._tcp.local. (61)
+16:08:29.968168 ARP, Request who-has 192.168.43.193 tell 192.168.43.1, length 28
+16:08:29.968198 ARP, Reply 192.168.43.193 is-at 14:2d:27:e8:55:c5, length 28
+16:08:36.796706 IP 192.168.43.193.46414 > 91.189.89.199.123: NTPv4, Client, length 48
+16:08:37.815576 IP 192.168.43.193.5353 > 224.0.0.251.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+16:08:38.565049 IP 91.189.89.199.123 > 192.168.43.193.46414: NTPv4, Server, length 48
+16:08:39.669097 IP6 fe80::255f:3aa7:3eb8:9cec.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+16:08:40.202993 ARP, Request who-has 192.168.43.193 tell 192.168.43.1, length 28
+16:08:40.203023 ARP, Reply 192.168.43.193 is-at 14:2d:27:e8:55:c5, length 28
+16:08:48.596076 IP 192.168.43.1.5353 > 224.0.0.251.5353: 0 [2q] PTR (QM)? _233637DE._sub._googlecast._tcp.local. PTR (QM)? _googlecast._tcp.local. (61)
+16:08:50.437864 ARP, Request who-has 192.168.43.193 tell 192.168.43.1, length 28
+16:08:50.437891 ARP, Reply 192.168.43.193 is-at 14:2d:27:e8:55:c5, length 28
+16:09:00.877441 ARP, Request who-has 192.168.43.193 tell 192.168.43.1, length 28
+16:09:00.877469 ARP, Reply 192.168.43.193 is-at 14:2d:27:e8:55:c5, length 28
+16:09:09.884636 IP 192.168.43.1.5353 > 224.0.0.251.5353: 0 [2q] PTR (QU)? _233637DE._sub._googlecast._tcp.local. PTR (QU)? _googlecast._tcp.local. (61)
